@@ -1,0 +1,10 @@
+.DS_Store
+.editorconfig
+/.idea
+/vendor
+/public/storage
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+composer.lock

@@ -1,0 +1,13 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Running the lucid command in the console.
+|--------------------------------------------------------------------------
+|
+| This file makes it possible to use the lucid services
+| using the shortened path.
+|
+*/
+
+require __DIR__.'/vendor/lucid-arch/laravel-console/lucid';

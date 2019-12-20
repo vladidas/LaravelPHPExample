@@ -1,0 +1,113 @@
+.dropdown-languages {
+    position: absolute;
+    top: calc(50% - 10px);
+    right: 25px;
+}
+
+.dropdown-languages a {
+    color: white;
+}
+
+.badge {
+    padding: 1px 9px 2px;
+    font-size: 12.025px;
+    font-weight: bold;
+    white-space: nowrap;
+    color: #ffffff;
+    background-color: #999999;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.badge:hover {
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.badge-error {
+    background-color: #b94a48;
+}
+
+.badge-error:hover {
+    background-color: #953b39;
+}
+
+.badge-warning {
+    background-color: #f89406;
+}
+
+.badge-warning:hover {
+    background-color: #c67605;
+}
+
+.badge-success {
+    background-color: #468847;
+    color: white !important;
+}
+
+.badge-success:hover {
+    background-color: #356635;
+}
+
+.badge-info {
+    background-color: #3a87ad;
+}
+
+.badge-info:hover {
+    background-color: #2d6987;
+}
+
+.badge-inverse {
+    background-color: #333333;
+}
+
+.badge-inverse:hover {
+    background-color: #1a1a1a;
+}
+
+.user-balance {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+}
+
+.user-balance li {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth-card {
+    max-width: 400px;
+}
+
+.col-center {
+    float: none !important;
+    margin: 0 auto;
+}
+
+.statistic-item {
+    display: inline-flex;
+}
+
+.statistic-item span {
+    line-height: 37px;
+}
+
+table {
+    overflow-x: auto;
+}
+
+aside.sidebar {
+    overflow-y: auto;
+}
+
+.btn-redirect-back {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    color: #b94a48;
+    font-size: 15px;
+}
